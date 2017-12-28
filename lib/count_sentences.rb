@@ -11,7 +11,7 @@ class String
   end
 
   def exclamation?
-    self.split(!)
+    self.split("!")
   end
 
   def count_sentences
